@@ -16,7 +16,7 @@ const ContactList = ({ id,contacts, deleteContact, selectContact }) => {
    
    
    
-    <div className="flex flex-wrap bg-yellow-200 m-0 p-0">
+    <div className="flex flex-wrap bg-yellow-200  m-0 p-0">
     <ul className='flex flex-wrap justify-self-auto gap-10 mx-10 p-0 '>
     
 
