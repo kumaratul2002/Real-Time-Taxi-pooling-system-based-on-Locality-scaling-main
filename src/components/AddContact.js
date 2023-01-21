@@ -38,10 +38,10 @@ const AddContact = ({ dest,addContact }) => {
 
 
 
-    <div className="flex justify-center bg-amber-200 m-0 p-0" >
+    <div className="flex justify-center bg-cyan-300 m-0 p-0 h-[680px]" >
     <div className="">
-    <h3 className="my-[20px] font-serif text-3xl flex justify-center">Add Your Details</h3>
-    <div className="bg-yellow-300 mx-[600px] w-[35vw] flex justify-center rounded-xl">
+    <h3 className="my-[20px] font-serif text-3xl flex justify-center  ">Add Your Details</h3>
+    <div className="bg-cyan-100 h-[500px] mx-[600px] w-[35vw] flex justify-center rounded-xl">
     <form onSubmit={handleSubmit}>
     <div class=" mx-[190px] my-[15px] w-full md:w-1/2 px-3 mb-6 md:mb-0">
       {/* <label className="block uppercase tracking-wide text-gray-700 text-base font-bold mb-2">
