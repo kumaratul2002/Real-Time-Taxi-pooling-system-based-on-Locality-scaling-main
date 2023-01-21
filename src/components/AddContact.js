@@ -66,7 +66,7 @@ const AddContact = ({ dest,addContact }) => {
           value={time}
           onChange={(e) => setTime(e.target.value)}
         />
-        <p class="text-gray-600 text-xs italic">Enter the time and date when you want to go.</p>
+        <p className="text-gray-600 text-xs italic">Enter the time and date when you want to go.</p>
       </label>
       <br />
       </div>
